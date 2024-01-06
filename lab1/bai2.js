@@ -1,5 +1,5 @@
 let name = "LinhLinh";
-let namsinh = 2004;
+let age = 2004;
 
 // arrow function
 let sayHello = () => {
